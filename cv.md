@@ -30,7 +30,7 @@ Edad: 18
 
 ## Certificaciones
 - Ingles: [B2] - [Trinity] - [2022/03/06]
-- Gallego: [B2] - [] - [2023/05/15]
+- Gallego: [C1] - [Celga] - [2023/05/15]
 
 
 
